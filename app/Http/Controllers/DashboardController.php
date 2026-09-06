@@ -1,3 +1,4 @@
+// Menampilkan ringkasan data untuk admin maupun user
 <?php
 
 namespace App\Http\Controllers;
