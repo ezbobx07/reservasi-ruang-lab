@@ -102,3 +102,5 @@ Kode ini adalah kerangka kerja fungsional yang dapat langsung dijalankan mengiku
 - Menyesuaikan tampilan/tema sesuai kreativitas pribadi (diperbolehkan sesuai instruksi tugas).
 - Menyiapkan data contoh tambahan melalui seeder agar demonstrasi lebih meyakinkan.
 - Membuat repository GitHub pribadi, melakukan commit bertahap (bukan sekali unggah), dan menulis README.md project (dasar dari file ini).
+
+## Status Pengujian Aplikasi sudah diuji dan berjalan lancar di lingkungan lokal (XAMPP/Laragon + SQLite).
